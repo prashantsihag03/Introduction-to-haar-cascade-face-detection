@@ -27,8 +27,9 @@ Authors’ detector had 6000+ features with 38 stages with 1, 10, 25, 25 and 50 
 # Training Data
 OpenCV already contains many pre-trained classifiers for face, eyes, smile etc. Those XML files are stored in opencv/data/haarcascades/ folder. Let’s create face and eye detector with OpenCV.
 
-#Dependencies and Installation
+# Dependencies and Installation
 OpenCV : pip install opencv-python
 Numpy : pip install numpy
+
 
 
